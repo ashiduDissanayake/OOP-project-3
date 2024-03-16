@@ -1,0 +1,100 @@
+Ashidu vs Geralt_of_Rivia
+
+
+Turn 1: Ashidu
+Warlock attacks Ranger
+Ranger's Health: 2.6
+Warlock's Health: 10.0
+
+Turn 2: Geralt_of_Rivia
+Warlock attacks Shooter
+Shooter's Health: 0.4
+Warlock's Health: 10.0
+
+Turn 3: Ashidu
+Shooter attacks Ranger
+Ranger Dead!
+
+Turn 4: Geralt_of_Rivia
+Squire attacks Shooter
+Shooter Dead!
+
+Turn 5: Ashidu
+Squire attacks Medic
+Medic's Health: 7.9
+Squire's Health: 7.0
+
+Turn 6: Geralt_of_Rivia
+Dragon attacks Soother
+Soother's Health: 4.3
+Dragon's Health: 15.0
+
+Turn 7: Ashidu
+Dragon attacks Medic
+Medic's Health: 3.3
+Dragon's Health: 15.0
+
+Turn 8: Geralt_of_Rivia
+Medic heals Medic
+Medic's health is: 5.9
+
+Turn 9: Ashidu
+Soother heals Soother
+Soother's health is: 6.1
+
+Turn 10: Geralt_of_Rivia
+Warlock attacks Soother
+Soother Dead!
+
+Turn 11: Ashidu
+Warlock attacks Medic
+Medic Dead!
+
+Turn 12: Geralt_of_Rivia
+Squire attacks Warlock
+Warlock's Health: 6.9
+Squire's Health: 7.0
+
+Turn 13: Ashidu
+Squire attacks Warlock
+Warlock's Health: 6.9
+Squire's Health: 7.0
+
+Turn 14: Geralt_of_Rivia
+Dragon attacks Warlock
+Warlock's Health: 2.3
+Dragon's Health: 15.0
+
+Turn 15: Ashidu
+Dragon attacks Warlock
+Warlock's Health: 2.3
+Dragon's Health: 15.0
+
+Turn 16: Geralt_of_Rivia
+Warlock attacks Warlock
+Warlock Dead!
+
+Turn 17: Ashidu
+Warlock attacks Warlock
+Warlock Dead!
+
+Turn 18: Geralt_of_Rivia
+Squire attacks Squire
+Squire's Health: 4.1
+Squire's Health: 7.0
+
+Turn 19: Ashidu
+Squire attacks Squire
+Squire's Health: 4.1
+Squire's Health: 4.1
+
+Turn 20: Geralt_of_Rivia
+Dragon attacks Squire
+Squire Dead!
+The Battle is a Draw!
+*********************************************
+Ashidu XP: 0
+Ashidu Gold Coins: 12
+Geralt_of_Rivia XP: 32
+Geralt_of_Rivia Gold Coins: 215
+*********************************************
